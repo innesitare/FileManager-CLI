@@ -1,0 +1,3 @@
+D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate.dir
+D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/CMakeFiles/edit_cache.dir
+D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/CMakeFiles/rebuild_cache.dir

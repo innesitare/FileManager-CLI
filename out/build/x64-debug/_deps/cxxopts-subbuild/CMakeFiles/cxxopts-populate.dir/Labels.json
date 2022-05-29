@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate"
+		},
+		{
+			"file" : "D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate.rule"
+		},
+		{
+			"file" : "D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-build.rule"
+		},
+		{
+			"file" : "D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-download.rule"
+		},
+		{
+			"file" : "D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-install.rule"
+		},
+		{
+			"file" : "D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-test.rule"
+		},
+		{
+			"file" : "D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cxxopts-populate"
+		],
+		"name" : "cxxopts-populate"
+	}
+}

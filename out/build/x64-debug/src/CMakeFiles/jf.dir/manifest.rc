@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Coding snippets/C++/fstream-client/out/build/x64-debug/src/CMakeFiles/jf.dir/embed.manifest"
