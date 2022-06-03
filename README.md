@@ -2,7 +2,7 @@
 
 ## keybindings
 
-j or ↓: Highlight next file
+<br>j or ↓: Highlight next file</br>
 k or ↑: Highlight previous file
 l or →: Open highlighted file
 h or ←: Back to parent folder
