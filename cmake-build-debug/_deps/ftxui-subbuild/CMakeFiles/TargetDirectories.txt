@@ -1,0 +1,3 @@
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.dir
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/edit_cache.dir
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/rebuild_cache.dir

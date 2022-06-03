@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
+    "\\src\\benchmarks",
     "\\src\\libs",
     "\\src\\libs\\operations",
     "\\src\\libs\\UI"
   ],
-  "SelectedNode": "\\src\\main.cpp",
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }

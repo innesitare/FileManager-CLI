@@ -1,0 +1,9 @@
+"D:\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2021.3.3/bin/ninja/win/ninja.exe" -G Ninja -S "D:\Coding snippets\C++\fstream-client" -B "D:\Coding snippets\C++\fstream-client\cmake-build-debug"
+-- CPM: adding package FTXUI@0 (7daeac25c003b14898f9ff9c6731ceb83ec55fd3)
+git found
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+Doxygen need to be installed to generate the doxygen documentation
+-- CPM: adding package cxxopts@ (master)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Coding snippets/C++/fstream-client/cmake-build-debug

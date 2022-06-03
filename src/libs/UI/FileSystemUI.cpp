@@ -13,7 +13,7 @@ void FileSystemUI::setQuitFunction(std::function<void()> q)
     quit = std::move(q);
 }
 
-FileSystemUI::FileSystemUI(const FileSystemOptions& options) 
+FileSystemUI::FileSystemUI(const FileSystemOptions& options)
     : statusMessage(L""), statusSelected(L"0"), currentPath{ options.path }, isShowingHiddenFile{ options.showHiddenFiles }
 {
     int availableSpace = std::filesystem::space(currentPath).available / 1e9;
@@ -169,7 +169,7 @@ ftxui::Element FileSystemUI::Render()
                 mainView | flex,
                 separator(),
                 statusLine
-            })
+                })
         );
 }
 // clang-format on

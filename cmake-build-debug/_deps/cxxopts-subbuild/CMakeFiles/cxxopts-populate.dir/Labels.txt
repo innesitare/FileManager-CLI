@@ -1,0 +1,14 @@
+# Target labels
+ cxxopts-populate
+# Source files and their labels
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate-complete.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-build.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-configure.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-download.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-install.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-mkdir.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-patch.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-test.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-update.rule

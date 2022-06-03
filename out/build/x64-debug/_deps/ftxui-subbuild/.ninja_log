@@ -1,21 +1,37 @@
 # ninja log v5
-1	251	6755498257454186	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	ccfe3bd88ccb0b60
-1	251	6755498257454186	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	ccfe3bd88ccb0b60
-251	6015	6755498315112325	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	ed12f2b4213598a6
-251	6015	6755498315112325	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	ed12f2b4213598a6
-6015	6163	0	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update	82a103a67b330da4
-6015	6163	0	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update	82a103a67b330da4
-6230	6300	6755498317924883	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	e1b8a8f432d24e6
-6230	6300	6755498317924883	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	e1b8a8f432d24e6
-6300	6361	6755498318583556	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	71e7077ed5726660
-6300	6361	6755498318583556	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	71e7077ed5726660
-6361	6426	6755498319224138	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	7a2639a11a6e1ad4
-6361	6426	6755498319224138	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	7a2639a11a6e1ad4
-6426	6491	6755498319864728	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	58bcc89644508948
-6426	6491	6755498319864728	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	58bcc89644508948
-6491	6557	6755498320525337	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	e7cc58694a269818
-6491	6557	6755498320525337	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	e7cc58694a269818
-6557	6649	6755498321436162	CMakeFiles/ftxui-populate-complete	e86f3e15d82f902b
-6557	6649	6755498321436162	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	e86f3e15d82f902b
-6557	6649	6755498321436162	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete	e86f3e15d82f902b
-6557	6649	6755498321436162	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	e86f3e15d82f902b
+1	229	6759755041243509	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	ccfe3bd88ccb0b60
+1	229	6759755041243509	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir	ccfe3bd88ccb0b60
+4704	4844	0	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update	82a103a67b330da4
+229	4704	6759755086003492	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	ed12f2b4213598a6
+4860	4922	6759755088173571	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	e1b8a8f432d24e6
+229	4704	6759755086003492	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download	ed12f2b4213598a6
+4704	4844	0	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update	82a103a67b330da4
+4860	4922	6759755088173571	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	e1b8a8f432d24e6
+4922	4980	6759755088764113	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	71e7077ed5726660
+5101	5159	6759755090553279	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	e7cc58694a269818
+5159	5244	6759755091394044	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	e86f3e15d82f902b
+4922	4980	6759755088764113	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	71e7077ed5726660
+4981	5040	6759755089352054	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	7a2639a11a6e1ad4
+4981	5040	6759755089352054	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	7a2639a11a6e1ad4
+5159	5244	6759755091394044	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete	e86f3e15d82f902b
+5040	5101	6759755089952597	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	58bcc89644508948
+5040	5101	6759755089952597	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	58bcc89644508948
+5101	5159	6759755090553279	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	e7cc58694a269818
+5159	5244	6759755091394044	CMakeFiles/ftxui-populate-complete	e86f3e15d82f902b
+5159	5244	6759755091394044	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	e86f3e15d82f902b
+1	143	0	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update	82a103a67b330da4
+1	143	0	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update	82a103a67b330da4
+144	201	6759772919173718	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	e1b8a8f432d24e6
+144	201	6759772919173718	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch	e1b8a8f432d24e6
+201	260	6759772919764259	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	71e7077ed5726660
+201	260	6759772919764259	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure	71e7077ed5726660
+260	320	6759772920364805	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	7a2639a11a6e1ad4
+260	320	6759772920364805	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build	7a2639a11a6e1ad4
+320	379	6759772920945328	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	58bcc89644508948
+320	379	6759772920945328	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install	58bcc89644508948
+379	437	6759772921525856	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	e7cc58694a269818
+379	437	6759772921525856	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test	e7cc58694a269818
+437	519	6759772922346605	CMakeFiles/ftxui-populate-complete	e86f3e15d82f902b
+437	519	6759772922346605	ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	e86f3e15d82f902b
+437	519	6759772922346605	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete	e86f3e15d82f902b
+437	519	6759772922346605	D:/Coding snippets/C++/fstream-client/out/build/x64-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-done	e86f3e15d82f902b

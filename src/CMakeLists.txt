@@ -1,7 +1,7 @@
 add_subdirectory(libs)
 
 set(EXECUTABLE_NAME jf)
-add_executable(${EXECUTABLE_NAME} main.cpp)
+add_executable(${EXECUTABLE_NAME} main.cpp benchmarks/test.hpp)
 
 set_target_properties(${EXECUTABLE_NAME} PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
 set_target_properties(${EXECUTABLE_NAME} PROPERTIES CXX_STANDARD 20)

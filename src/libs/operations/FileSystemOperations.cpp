@@ -47,6 +47,7 @@ bool FileSystemOperations::lastOperationIsCompleated()
         return lastOperationCompleated.get();
     }
     catch (std::future_error& error) {
+        std::cout << error.what();
         return false;
     }
 }
@@ -68,34 +69,35 @@ void FileSystemOperations::performOperation(const std::filesystem::path& dest)
     };
 
     lastOperationCompleated = std::async(std::launch::async,
-        [](const std::vector<std::filesystem::path>& selectedFiles, const std::filesystem::path& dest, Operation selectedOperation) -> bool {
+        [](const std::vector<std::filesystem::path>& selectedFiles, const std::filesystem::path& dest, Operation selectedOperation) -> bool 
+        {
             try {
                 switch (selectedOperation) {
-
-                case NOT_SELECTED:
-                    return false;
-                    break;
-
-                case COPY:
-                    for (const auto& p : selectedFiles) {
-                        std::filesystem::copy(p, dest / p.filename(), std::filesystem::copy_options::recursive);
+                    case NOT_SELECTED: {
+                        return false;
+                        break;
+                        }
+                    case COPY: {
+                        for (const auto& p : selectedFiles) {
+                            std::filesystem::copy(p, dest / p.filename(), std::filesystem::copy_options::recursive);
+                        }
+                        break;
                     }
-                    break;
-
-                case DELETE:
-                    for (const auto& p : selectedFiles) {
-                        std::filesystem::remove_all(p);
+                    case DELETE: {
+                        for (const auto& p : selectedFiles) {
+                            std::filesystem::remove_all(p);
+                        }
+                        break;
                     }
-                    break;
-
-                case MOVE:
-                    for (const auto& p : selectedFiles) {
-                        std::filesystem::rename(p, dest / p.filename());
+                    case MOVE: {
+                        for (const auto& p : selectedFiles) {
+                            std::filesystem::rename(p, dest / p.filename());
+                        }
+                        break;
                     }
-                    break;
                 }
-            }
-            catch (std::filesystem::filesystem_error& e) {
+            } catch (std::filesystem::filesystem_error& e) {
+                std::cout << e.what();
                 throw;
             }
             return true;

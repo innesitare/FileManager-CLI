@@ -1,0 +1,14 @@
+# Target labels
+ ftxui-populate
+# Source files and their labels
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate-complete.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-build.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-configure.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-download.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-install.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-mkdir.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-patch.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-test.rule
+D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/ftxui-subbuild/ftxui-populate-prefix/src/ftxui-populate-stamp/ftxui-populate-update.rule

@@ -1,0 +1,37 @@
+# ninja log v5
+3482	3569	6759734697863788	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-done	b0daa0f46ea497ad
+1	210	6756813751635693	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-mkdir	698350655d691c12
+1	3186	0	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-update	8a090cb8cc573162
+1	210	6756813751635693	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-mkdir	698350655d691c12
+3186	3250	6759734694670884	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-patch	6dc24e8b2fdf5d87
+211	2442	6756813773980131	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-download	f028a43d3fef70a9
+3372	3427	6759734696452497	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-install	cdb010337b2bf1d9
+3186	3250	6759734694670884	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-patch	6dc24e8b2fdf5d87
+211	2442	6756813773980131	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-download	f028a43d3fef70a9
+1	3186	0	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-update	8a090cb8cc573162
+3250	3316	6759734695331484	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-configure	2da409a678fbc81c
+3250	3316	6759734695331484	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-configure	2da409a678fbc81c
+3316	3372	6759734695891990	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-build	45f32b66c0c9d1ca
+3316	3372	6759734695891990	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-build	45f32b66c0c9d1ca
+3372	3427	6759734696452497	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-install	cdb010337b2bf1d9
+3428	3482	6759734696992998	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-test	2ae5fe016850c28a
+3428	3482	6759734696992998	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-test	2ae5fe016850c28a
+3482	3569	6759734697863788	CMakeFiles/cxxopts-populate-complete	b0daa0f46ea497ad
+3482	3569	6759734697863788	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate-complete	b0daa0f46ea497ad
+3482	3569	6759734697863788	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-done	b0daa0f46ea497ad
+0	1703	0	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-update	8a090cb8cc573162
+0	1703	0	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-update	8a090cb8cc573162
+1704	1760	6759746393191196	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-patch	6dc24e8b2fdf5d87
+1704	1760	6759746393191196	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-patch	6dc24e8b2fdf5d87
+1760	1815	6759746393741698	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-configure	2da409a678fbc81c
+1760	1815	6759746393741698	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-configure	2da409a678fbc81c
+1815	1872	6759746394312213	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-build	45f32b66c0c9d1ca
+1815	1872	6759746394312213	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-build	45f32b66c0c9d1ca
+1872	1927	6759746394862722	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-install	cdb010337b2bf1d9
+1872	1927	6759746394862722	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-install	cdb010337b2bf1d9
+1927	1981	6759746395403209	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-test	2ae5fe016850c28a
+1927	1981	6759746395403209	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-test	2ae5fe016850c28a
+1981	2058	6759746396173905	CMakeFiles/cxxopts-populate-complete	b0daa0f46ea497ad
+1981	2058	6759746396173905	cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-done	b0daa0f46ea497ad
+1981	2058	6759746396173905	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/CMakeFiles/cxxopts-populate-complete	b0daa0f46ea497ad
+1981	2058	6759746396173905	D:/Coding snippets/C++/fstream-client/cmake-build-debug/_deps/cxxopts-subbuild/cxxopts-populate-prefix/src/cxxopts-populate-stamp/cxxopts-populate-done	b0daa0f46ea497ad
