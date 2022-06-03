@@ -3,14 +3,14 @@
 ## keybindings
 
 <br>j or ↓: Highlight next file</br>
-k or ↑: Highlight previous file
-l or →: Open highlighted file
-h or ←: Back to parent folder
-f: Add highlighted file to seleted list
-c: Enter COPY mode
-m: Enter MOVE mode
-d: Enter DELETE mode
-SpaceBar: Confirm operation (Copy/move selected files to current path; delete selected files)
-Esc: Clear mode and selected files.
-a: Toggle hidden files
-q: Quit
+<br>k or ↑: Highlight previous file</br>
+<br>l or →: Open highlighted file</br>
+<br>h or ←: Back to parent folder</br>
+<br>f: Add highlighted file to seleted list</br>
+<br>c: Enter COPY mode</br>
+<br>m: Enter MOVE mode</br>
+<br>d: Enter DELETE mode</br>
+<br>SpaceBar: Confirm operation (Copy/move selected files to current path; delete selected files)</br>
+<br>Esc: Clear mode and selected files.</br>
+<br>a: Toggle hidden files</br>
+<br>q: Quit</br>
